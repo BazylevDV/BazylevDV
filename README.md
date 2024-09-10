@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BazylevDV , I am businessman in medical equipmets distribution
 - 👀 I’m interested in programming for  business issues solving
-- 🌱 I’m currently learning Python 
+- 🌱 I’m study Python 
 - 💞️ I’m looking to collaborate on current home work tasks and future projects
 - 📫 How to reach me : dmbazylev@ya.ru or @BazylevDV (Telegram messsenger), (in Skype : dmitry_bazylev)
 - 😄 Pronouns: Dimitrii
