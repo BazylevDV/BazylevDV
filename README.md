@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BazylevDV , I am businessman in medical equipmets distribution
 - 👀 I’m interested in programming for  business issues solving
 - 🌱 I’m study Python 
-- 💞️ I’m looking to collaborate on current home work tasks and future projects
+- 💞️ I’m looking for to collaborate on current home work tasks and future projects
 - 📫 How to reach me : dmbazylev@ya.ru or @BazylevDV (Telegram messsenger), (in Skype : dmitry_bazylev)
 - 😄 Pronouns: Dimitrii
 - ⚡ Fun fact: I have been in 140 cities in different cuntries .
